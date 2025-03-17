@@ -8,6 +8,11 @@
 - Backend integration experience (Firebase or Supabase)
 ```
 
+## FastAPI
+I have strong knowledge for Python, Postgres, FastAPI, and Docker.
+Recently, I have built AI agents using LLM APIs, optimizing prompts with Azure.
+I think my last project is very similar with your dream projects, so perfectly matched.
+
 
 ##End
 ```
