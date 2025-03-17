@@ -7,3 +7,9 @@
 - Strong knowledge of NativeWind (Tailwind CSS)
 - Backend integration experience (Firebase or Supabase)
 ```
+
+
+##End
+```
+I will deliver projects rapidly includes performant, scalable, and maintainable applications even meet tight deadlines.
+```
